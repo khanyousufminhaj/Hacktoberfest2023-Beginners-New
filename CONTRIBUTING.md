@@ -43,6 +43,10 @@
 =======
 >>>>>>> main
 
+#### Name:[Yousuf Minhaj Khan](https://github.com/khanyousufminhaj)
+- Place: Kolkata,India
+- Bio: AI/ML enthusiast,Python,Java
+- 
 #### Name: [Namya Jain](https://github.com/Namya13Jain)
 
 - Place: New Delhi, India
